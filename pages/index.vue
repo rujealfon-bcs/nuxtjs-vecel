@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-  test ruje
+  test ruje deploy
     <div>
       <logo />
       <h1 class="title">
