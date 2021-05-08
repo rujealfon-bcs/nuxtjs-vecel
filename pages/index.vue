@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+  test ruje
     <div>
       <logo />
       <h1 class="title">
